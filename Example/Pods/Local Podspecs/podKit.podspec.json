@@ -1,0 +1,22 @@
+{
+  "name": "podKit",
+  "version": "0.1.0",
+  "summary": "A short description of podKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yaofen/podKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yaofen": "2363253102@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/yaofen/podKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "podKit/Classes/**/*"
+}
